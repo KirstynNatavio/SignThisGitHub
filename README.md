@@ -16,3 +16,5 @@ FOR NOW: TO GO TO THE FIRST PAGE, TYPE localhost:3000 IN YOUR BROWSER
 TO GO TO THE SECOND PAGE, THE START BUTTON DOES NOT WORK SO TYPE localhost:3000/settings IN YOUR BROWSER
 
 Future improvements: Incorporating a voice feature that would say the word as it is interpreted
+Technologies used: Clarifai API, Materialize.CSS API
+Coded in: JavaScript, HTML
